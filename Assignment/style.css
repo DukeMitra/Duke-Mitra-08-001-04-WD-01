@@ -138,8 +138,9 @@ form input, form textarea {
 }
 
 footer {
+    background-color: #10004a;
     text-align: center;
     margin-top: 20px;
     font-size: 14px;
-    color: #10004a;
+    color: #ffffff;
 }
